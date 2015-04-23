@@ -253,7 +253,7 @@ input,
 optgroup,
 select,
 textarea {
-  color: inherit; /* 1 */
+  color: #15925F; /* 1 */
   font: inherit; /* 2 */
   margin: 0; /* 3 */
 }
